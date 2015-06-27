@@ -1,0 +1,2 @@
+MV Command allows the user to move directories/files, cutting and pasting them.
+Example: mv [name and path of desired directory/file to move] [name and path of desired directory/file to be move]
