@@ -1,0 +1,2 @@
+Grep Command: Searches plain text data matching them to regular expressions
+grep *.txt
